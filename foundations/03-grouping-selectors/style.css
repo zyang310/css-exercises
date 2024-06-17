@@ -1,14 +1,14 @@
-.both {
+.first.second {
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
 }
 
-#first {
+.first {
     background-color: #000000;
     color: white;
     font-weight: bold;
 }
 
-#second {
+.second {
     background-color: yellow;
 }
